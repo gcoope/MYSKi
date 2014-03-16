@@ -1,0 +1,60 @@
+html, body {
+	background:url(img/pattern.png); 
+	font-family: "HelveticaNeue-Light",
+	"Helvetica Neue Light",
+	"Helvetica Neue", 
+	Helvetica, Arial,
+	"Lucida Grande",
+	sans-serif;
+	height:100%;
+}
+
+#Menu {
+	height:100%;
+	overflow:hidden;
+}
+
+#logo {
+	width:300px;
+	height:250px;
+	margin:0 auto;
+}
+
+#logo img {
+	max-width:100%;
+}
+
+.ui-content {
+	background:url(img/pattern.png); 
+	font-family: "HelveticaNeue-Light",
+	"Helvetica Neue Light",
+	"Helvetica Neue", 
+	Helvetica, Arial,
+	"Lucida Grande",
+	sans-serif;	
+	-webkit-box-shadow: inset 0px -7px 10px -5px rgba(50, 50, 50, 1);
+	-moz-box-shadow: inset 0px -7px 10px -5px rgba(50, 50, 50, 1);
+	box-shadow: inset 0px -7px 10px -5px rgba(50, 50, 50, 1);
+	height:100%;
+}
+
+.ui-content .ui-button {
+	margin: 0 auto;
+	width:75%;
+	margin-top:5px;
+}
+
+.icon-search {
+	font-size:3em;
+}
+.icon-calendar {
+	font-size:3em;
+}
+.icon-snowy {
+	font-size:3em;
+}
+.icon-target {
+	font-size:3em;
+}
+
+
